@@ -35,10 +35,10 @@ others have been implemented and work, but not quite how you would expect.
 
 Soon to be added are:
 
- # Full Word Commands
- # Better Character Creation
- # File input/output for saving MUD state
- # Telnet access to the MUD
+ 1. Full Word Commands
+ 2. Better Character Creation
+ 3. File input/output for saving MUD state
+ 4. Telnet access to the MUD
 
 There are many more things to be implemented, but these will be the focus
 for the coming period of time. Expect these to be working apporixmately
